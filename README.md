@@ -1,1 +1,1 @@
-# second cloneeee - Copy
+Hardware Stock Management System 
